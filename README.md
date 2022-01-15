@@ -1,1 +1,1 @@
-# Homework_1_Git-bash
+# Homework_1_GitBash
